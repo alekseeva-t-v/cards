@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  width: 18rem;
+  margin: 30px auto;
+}
+
+.card {
+  width: 18rem;
+  margin-top: 30px;
+}
