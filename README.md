@@ -6,8 +6,10 @@
 
 Реализован компонент карточек, позволяющий использовать себя следующим образом:
 
-- ![preview](./public/images/card1.png)
-- ![preview](./public/images/card2.png)
+- Карточка с картинкой:
+![preview](./public/images/card1.png)
+- Карточка без картинки
+![preview](./public/images/card2.png)
 
 В качестве CSS использован Bootstrap.
 
